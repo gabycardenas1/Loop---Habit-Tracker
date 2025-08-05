@@ -67,6 +67,7 @@ HABIT TRACKER/
 
 **Gabriela Cárdenas**  
 Estudiante de Ingeniería en Ciencias de Datos & Desarrollo de Software  
+Pontificia Universidad Católica del Ecuador (PUCE)
 Universidad UTE (UTE)
 
 ## 📌 Dependencias
@@ -74,4 +75,5 @@ Universidad UTE (UTE)
 customtkinter  
 pillow  
 matplotlib  
+
 reportlab
