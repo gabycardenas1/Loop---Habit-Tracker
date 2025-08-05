@@ -1,0 +1,93 @@
+{
+    "usuarios": {
+        "admin": {
+            "password": "1234",
+            "registros": {
+                "2025-07-31": {
+                    "sueno": 4.0,
+                    "animo": 3,
+                    "lectura": 120,
+                    "agua": 2,
+                    "ejercicio": 180
+                },
+                "2025-07-30": {
+                    "sueno": 2.0,
+                    "animo": 1,
+                    "lectura": 123,
+                    "agua": 2,
+                    "ejercicio": 180
+                },
+                "2025-07-25": {
+                    "sueno": 1.0,
+                    "animo": 5,
+                    "lectura": 12,
+                    "agua": 2,
+                    "ejercicio": 180
+                },
+                "2025-07-12": {
+                    "sueno": 4.0,
+                    "animo": 4,
+                    "lectura": 10,
+                    "agua": 2,
+                    "ejercicio": 180
+                },
+                "2025-08-01": {
+                    "sueno": 3.0,
+                    "animo": 3,
+                    "lectura": 60,
+                    "agua": 4,
+                    "ejercicio": 120
+                },
+                "2025-07-01": {
+                    "sueno": 7.0,
+                    "animo": 4,
+                    "lectura": 37,
+                    "agua": 5,
+                    "ejercicio": 120
+                },
+                "2025-07-05": {
+                    "sueno": 7.0,
+                    "animo": 4,
+                    "lectura": 37,
+                    "agua": 5,
+                    "ejercicio": 120
+                },
+                "2025-07-04": {
+                    "sueno": 5.0,
+                    "animo": 3,
+                    "lectura": 80,
+                    "agua": 5,
+                    "ejercicio": 60
+                },
+                "2025-07-11": {
+                    "sueno": 3.0,
+                    "animo": 1,
+                    "lectura": 100,
+                    "agua": 10,
+                    "ejercicio": 0
+                },
+                "2025-07-14": {
+                    "sueno": 8.0,
+                    "animo": 5,
+                    "lectura": 50,
+                    "agua": 8,
+                    "ejercicio": 180
+                },
+                "2025-08-03": {
+                    "sueno": 8.0,
+                    "animo": 4,
+                    "lectura": 0,
+                    "agua": 4,
+                    "ejercicio": 0
+                },
+                "2025-08-04": {
+                    "sueno": 1.0,
+                    "animo": 1,
+                    "lectura": 3,
+                    "agua": 0,
+                    "ejercicio": 10
+                }
+            }
+        }
+    }
+}
